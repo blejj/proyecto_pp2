@@ -236,3 +236,8 @@ footer img {
 .comic-info-genero-inicio h3 {
     padding-bottom: 80px;
 }
+
+.comic-item {
+    cursor: pointer;
+     
+}

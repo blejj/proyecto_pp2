@@ -6,7 +6,7 @@ const carousel = new bootstrap.Carousel(myCarouselElement, {
 })
 
 
-//gestion de clicks en los comics card
+//gestion de clicks en los comics home card
 document.addEventListener("DOMContentLoaded",() => {
   const cards = document.querySelectorAll(".card");
 
@@ -18,3 +18,4 @@ document.addEventListener("DOMContentLoaded",() => {
     })
   })
 })
+
