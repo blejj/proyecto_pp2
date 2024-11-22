@@ -169,4 +169,4 @@ Add-Migration InitialCreate
 Update-Database
 ```
 
-![Demostracion](/img/Login.gif)
+![Demostracion](/src/img/Login.gif)
