@@ -169,4 +169,6 @@ Add-Migration InitialCreate
 Update-Database
 ```
 
+Video Registro y Login 
+
 ![Demostracion](/src/img/Login.gif)
